@@ -23,7 +23,6 @@ function App() {
     
   }
   return (
-     <div className="back">
       <NoteState>
         <BrowserRouter>
           <Navbar />
@@ -38,7 +37,6 @@ function App() {
           </div>
         </BrowserRouter>
       </NoteState>
-      </div>
    
   );
 }
