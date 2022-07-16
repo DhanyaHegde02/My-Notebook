@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+ .back {
+  background-image: url("/public/1657899646611.jpg");
+  height: 100%; 
+  width: 100vw;
+  background-position:bottom;
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-attachment: fixed;
+  background-color: rgb(232, 124, 30);
+ }
