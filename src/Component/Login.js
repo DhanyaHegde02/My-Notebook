@@ -64,7 +64,7 @@ const onChange = (e) => {
   <button type="submit" className="btn btn-primary my-2" >Login</button>
   
 </form>
-    <div className='my-4'>.</div>
+    <div className='my-5'>.</div>
  
     </div>
   )

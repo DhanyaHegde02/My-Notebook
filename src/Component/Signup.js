@@ -56,6 +56,7 @@ const Signup = (props) => {
   
   <button type="submit" className=" btn btn-primary mx-2"><strong>Signup</strong></button>
 </form>
+<div className='my-5'>.</div>
     </div>
   )
 }
